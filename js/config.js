@@ -1,0 +1,1 @@
+window.VETVISION_API_BASE_URL = "";
